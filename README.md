@@ -1,1 +1,2 @@
 # Resume-Analyzer
+Developed and implemented a sophisticated resume parsing using Streamlit and MySQL, which leverages Natural Language Processing (NLP) to extract and analyse key information from resumes. The parser accurately identifies and categorizes details such as contact information, skills, education, and work experience, also suggest recommended skills, facilitating streamlined candidate evaluation and improving recruitment efficiency.
